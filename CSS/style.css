@@ -1,0 +1,61 @@
+*{
+    font-family: poppins;
+}
+.cv{
+    background-color: rgb(14, 14, 33);
+    display: flex;
+}
+.couleur{
+    background-color:rgb(14, 14, 33) ;
+    height: 100px;
+}
+
+img{
+    width: 200px;
+    border-radius: 300px;
+   margin-top: 20px;
+   margin-left: 20px;
+   border: 2px solid rgb(152, 24, 103);
+}
+
+.text{
+    font-size: 20px;
+    color: white;
+    line-height: 0px;
+    margin-left: 100px;
+    margin-top: 50px;
+    text-align: center;
+    line-height: 10px;
+}
+
+.marge{
+    margin-left: 50px;
+    margin-right: 30px;
+}
+
+.space{
+    line-height: 0px;
+}
+
+.p{
+    line-height: 0px;
+}
+
+.titi{
+    display: flex;
+}
+
+.main{
+    width: 80%;
+    margin: auto;
+}
+
+a{
+    color: whitesmoke ;
+    text-align: center;
+}
+ 
+.moi{
+    margin-left: 100px;
+}
+
